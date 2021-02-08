@@ -1,0 +1,15 @@
+type Query {
+    salesmans: [Salesman]!
+}
+
+type Salesman {
+    id: String!
+    firstName: String!
+    lastName: String!
+    department: String!
+    outCome: OutCome
+}
+
+type OutCome {
+    detail: String
+}

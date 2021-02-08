@@ -1,0 +1,8 @@
+{
+    "api": {
+      "contents": {
+        "host": "localhost",
+        "port": "17100"
+      }
+  }
+}

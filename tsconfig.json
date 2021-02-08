@@ -1,0 +1,22 @@
+{
+  "compilerOptions": {
+    "target": "ESNext",
+    "module": "commonjs",
+    "outDir": "./target",
+    "strict": true,
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "strictFunctionTypes": true,
+    "strictNullChecks": true,
+    "strictPropertyInitialization": true,
+    "noImplicitAny": true,
+    "noImplicitReturns": true,
+    "noImplicitThis": true,
+    "noUnusedParameters": true,
+    "noUnusedLocals": true,
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
+  },
+  "exclude": ["**/test/*.spec.ts"]
+}
+
